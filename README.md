@@ -5,12 +5,13 @@ Nvidia Jetson nano
 
 # Model Links
 ## For N stress detection
-Download link for pretrained model
-https://drive.google.com/drive/folders/1pVvE13rbemEhJkpmHpb0Y5s4UAAWjaDd?usp=sharing
+[link](https://drive.google.com/drive/folders/1pVvE13rbemEhJkpmHpb0Y5s4UAAWjaDd?usp=sharing "Download link for pretrained model").
+
 
 ## For Leaf Rust (*Puccinia triticina*)
-Different models for leaf rust identification
-https://drive.google.com/drive/folders/16cp_STmyDPZApVKWuAFTSKa9bHb8TVj7?usp=sharing
+[link](https://drive.google.com/drive/folders/16cp_STmyDPZApVKWuAFTSKa9bHb8TVj7?usp=sharing "Different models for leaf rust identification")
+
+
 
 
 # Using the model on the device
