@@ -3,6 +3,8 @@
 - 4GB RAM
 - 128-core NVIDIA Maxwell™ GPU
 - Quad-core ARM® A57
+-
+
 ![Jetson nano](images/48trh0.gif)
 
 
