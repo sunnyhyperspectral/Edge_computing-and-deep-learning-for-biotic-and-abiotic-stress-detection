@@ -27,6 +27,7 @@ imagenet-console.py --model=resnet50/resnet50.onnx --input_blob=input_0 --output
 # Live camera inference
 The workflow proposed and models trained can also be used for live camera inference. It can be achived with following bash command on the jetson terminal.
 ```bash
+cd jetson-inference/python/training/classification
 DATASET=~/datasets/diseases
 imagenet.py --model=models/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt csi://0
 ```
