@@ -21,7 +21,7 @@ Different models for leaf rust identification
 [link](https://drive.google.com/drive/folders/16cp_STmyDPZApVKWuAFTSKa9bHb8TVj7?usp=sharing )
 
 
-# Using the model on the device
+# Directions for using the model for inteference 
 ### Using the model for inference on files in storage
 The workflow proposed and models trained can also be used for live camera inference. It can be achived with following bash command on the jetson termiunal
 ```bash
