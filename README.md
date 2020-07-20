@@ -3,7 +3,7 @@ Plant suffers from different biotic and abiotic stress. Nitrogen is primary nutr
 
 ![a](images/n.jpg)                                                                             ![b](images/d.jpg)
 ### (a)Nitrogen deficit stress in wheat                                                          
-### (a) Leaf Rust diseases in wheat
+### (b) Leaf Rust diseases in wheat
 
 
 
