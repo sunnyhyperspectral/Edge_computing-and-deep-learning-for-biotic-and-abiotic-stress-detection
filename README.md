@@ -5,6 +5,7 @@ Plant suffers from different biotic and abiotic stress. Nitrogen is primary nutr
 ## Leaf Rust diseases in wheat
 ![](images/d.jpg) 
 
+<br><br>
 # Edge_computing device used
 - Jetson nano
 - 128-core NVIDIA Maxwell™ GPU
