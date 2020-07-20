@@ -5,6 +5,9 @@
 ![Jetson nano](images/main.gif)
 
 
+
+
+
 # Model Links
 Open Neural Network Exchange (ONXX moldels)
 ONNX is an open format built to represent machine learning models. ONNX defines a common set of operators - the building blocks of machine learning and deep learning models - and a common file format to enable AI developers to use models with a variety of frameworks, tools, runtimes, and compilers.
@@ -19,6 +22,9 @@ Different models for nitrogen deficiency identification
 ### For Leaf Rust (*Puccinia triticina*)
 Different models for leaf rust identification
 [link](https://drive.google.com/drive/folders/16cp_STmyDPZApVKWuAFTSKa9bHb8TVj7?usp=sharing )
+
+
+
 
 
 # Directions for using the model for inteference 
