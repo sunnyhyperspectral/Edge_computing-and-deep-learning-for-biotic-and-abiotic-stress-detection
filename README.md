@@ -1,4 +1,4 @@
-# Edge_computing
+# Edge_computing device used
 - Nvidia Jetson nano
 - 4GB RAM
 - 128-core NVIDIA Maxwell™ GPU
