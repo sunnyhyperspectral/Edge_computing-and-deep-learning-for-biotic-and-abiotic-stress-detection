@@ -7,7 +7,7 @@
 
 \
 \
-\
+
 
 # Model Links
 Open Neural Network Exchange (ONXX moldels)
@@ -25,7 +25,6 @@ Different models for leaf rust identification
 [link](https://drive.google.com/drive/folders/16cp_STmyDPZApVKWuAFTSKa9bHb8TVj7?usp=sharing )
 
 
-\
 \
 \
 
