@@ -1,12 +1,13 @@
 # Biotic and Abiotic stress on which study was carried out
 Plant suffers from different biotic and abiotic stress. Nitrogen is primary nutrient in agriculture and its deficiency needs to be dtected. Also leaf rust is a major pathogen of wheat which diminishes the photosynthesis abiliuty of wheat and thus affects yiels
 
-![a](images/n.jpg)                                                                          ![b](images/d.jpg)
-###                                                         
-### (b) Leaf Rust diseases in wheat
-| ![space-1.jpg](images/n.jpg) | 
+| ![n.jpg](images/n.jpg) | 
 |:--:| 
 | *(a)Nitrogen deficit stress in wheat* |
+
+| ![d.jpg](images/d.jpg) | 
+|:--:| 
+| *(b)Leaf Rust diseases bin wheat* |
 
 
 
