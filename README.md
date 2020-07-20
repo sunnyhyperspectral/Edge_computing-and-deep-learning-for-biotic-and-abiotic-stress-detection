@@ -18,12 +18,20 @@ Different models for leaf rust identification
 
 
 # Using the model on the device
-Example for making inference on the image when datasetdirectory has subdirectory healthy_diseases, with test directory  in it containing images to be tested whether it is diseased or not.
+The workflow proposed and models trained can also be used for live camera inference. It can be achived with following bash command on the jetson termiunal
 ```bash
 cd jetson-inference/python/training/classification
 DATASET=~/datasets/healthy_diseased
 imagenet-console.py --model=resnet50/resnet50.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/12_diseased.jpg
 ```
+# Live camera inference
+The workflow proposed and models trained can also be used for live camera inference. It can be achived with following bash command on the jetson terminal.
+```bash
+DATASET=~/datasets/diseases
+imagenet.py --model=models/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt csi://0
+```
+
+
 
  **Note:  you can aso import onxx model in your pc as it is general format for saving model across devices. **
  
