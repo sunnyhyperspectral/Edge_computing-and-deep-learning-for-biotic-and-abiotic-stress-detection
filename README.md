@@ -1,6 +1,9 @@
 # Edge_computing
-
 Nvidia Jetson nano
+4GB RAM
+128-core NVIDIA Maxwell™ GPU
+Quad-core ARM® A57
+
 
 
 # Model Links
