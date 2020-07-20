@@ -34,5 +34,5 @@ imagenet.py --model=models/resnet18.onnx --input_blob=input_0 --output_blob=outp
 
 
 
- **Note:  you can aso import onxx model in your pc as it is general format for saving model across devices. **
+ *Note:  you can aso import onxx model in your pc as it is general format for saving model across devices. *
  
