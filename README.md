@@ -25,7 +25,7 @@ DATASET=~/datasets/healthy_diseased
 imagenet-console.py --model=resnet50/resnet50.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/12_diseased.jpg
 ```
 # Live camera inference
-The workflow proposed and models trained can also be used for live camera inference. It can be achived with following bash command on the jetson terminal.
+The workflow proposed and models trained can also be used for live camera inference when a camera module is connected. It can be achived with following bash command on the jetson terminal.
 ```bash
 cd jetson-inference/python/training/classification
 DATASET=~/datasets/diseases
