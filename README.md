@@ -7,7 +7,7 @@ Plant suffers from different biotic and abiotic stress. Nitrogen is primary nutr
 
 | ![d.jpg](images/d.jpg) | 
 |:--:| 
-| *(b)Leaf Rust diseases bin wheat* |
+| *(b)Leaf Rust diseases in wheat* |
 
 
 
