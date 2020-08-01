@@ -50,8 +50,4 @@ cd jetson-inference/python/training/classification
 DATASET=~/datasets/diseases
 imagenet.py --model=models/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt csi://0
 ```
-
-
-
- *Note:  you can aso import onxx model in your pc as it is general format for saving model across devices. *
  
