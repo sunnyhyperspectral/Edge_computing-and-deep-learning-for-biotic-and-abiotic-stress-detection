@@ -35,7 +35,7 @@ ResNet model varinats for leaf rust identification
 [link](https://drive.google.com/drive/folders/16cp_STmyDPZApVKWuAFTSKa9bHb8TVj7?usp=sharing )  
 
 <br><br>
-# Directions for using the model for inteference 
+# Directions for using the model for inteference on Jetson Nano
 ### Using the model for inference on files in storage
 The workflow proposed and models trained can also be used for live camera inference. It can be achived with following bash command on the jetson termiunal
 ```bash
@@ -47,7 +47,7 @@ imagenet-console.py --model=resnet50/resnet50.onnx --input_blob=input_0 --output
 The workflow proposed and models trained can also be used for live camera inference when a camera module is connected. It can be achived with following bash command on the jetson terminal.
 ```bash
 cd jetson-inference/python/training/classification
-DATASET=~/datasets/diseases
+DATASET=~/datasets/
 imagenet.py --model=models/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt csi://0
 ```
- 
+ Note: jetson-inference needs to be installed 
