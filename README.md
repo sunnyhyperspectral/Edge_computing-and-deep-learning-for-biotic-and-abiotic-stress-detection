@@ -26,12 +26,12 @@ ONNX is an open format built to represent machine learning models. ONNX defines 
 ![Jetson nano](images/main_model.gif)
 
 ### For N stress detection
-Different models for nitrogen deficiency identification
+ResNet model varinats for nitrogen deficiency identification
 [link](https://drive.google.com/drive/folders/1pVvE13rbemEhJkpmHpb0Y5s4UAAWjaDd?usp=sharing).
 
 
 ### For Leaf Rust (*Puccinia triticina*)
-Different models for leaf rust identification
+ResNet model varinats for leaf rust identification
 [link](https://drive.google.com/drive/folders/16cp_STmyDPZApVKWuAFTSKa9bHb8TVj7?usp=sharing )  
 
 <br><br>
